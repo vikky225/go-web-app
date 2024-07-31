@@ -13,7 +13,9 @@ go run main.go
 The server will start on port 8080. You can access it by navigating to `http://localhost:8080/courses` in your web browser.
 
 ## Looks like this
-![Sample Project](/image.png)
+![Website](image.png)
+
+
 
 ## Blog
 Follow this link for more details https://medium.com/@vikas.comau/how-to-devops-ify-a-golang-sample-webproject-4a2c7ed070b2
