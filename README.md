@@ -1,7 +1,7 @@
 # Go Web Application
 
 This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
-We are trying to Devopsify Golang webapp end to end CI CD Dockerised than githubaction/helm chart/argoCD/EKS cluster
+We are transforming Golang web application into a fully DevOps-enabled project using Docker, Kubernetes, Helm, and GitOps with ArgoCD
 
 ## Running the server
 
