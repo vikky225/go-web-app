@@ -22,5 +22,4 @@ The server will start on port 8080. You can access it by navigating to `http://l
 Follow this link for more details https://medium.com/@vikas.comau/how-to-devops-ify-a-golang-sample-webproject-4a2c7ed070b2
 
 
-## Reference taken for practice
-Reference has been taken for Practice [Reference](https://github.com/iam-veeramalla/go-web-app-devop )
+
