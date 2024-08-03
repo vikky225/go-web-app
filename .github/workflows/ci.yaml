@@ -64,7 +64,7 @@ jobs:
             echo "Waiting for SonarQube to be healthy..."
             sleep 10
           done
-        timeout-minutes: 5 
+        timeout-minutes: 10
         
   sonar-scan:
     runs-on: ubuntu-latest
