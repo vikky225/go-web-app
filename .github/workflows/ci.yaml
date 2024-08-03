@@ -78,7 +78,7 @@ jobs:
         uses: SonarSource/sonarqube-scan-action@v1
         env:
           SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
-          SONAR_HOST_URL: http://localhost:9000
+          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
         with:
           args: >
             -Dsonar.projectKey=golang
