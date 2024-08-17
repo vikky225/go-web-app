@@ -1,4 +1,4 @@
-# Go Web Application
+# Go Web Application Sample
 
 This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
 We are transforming Golang web application into a fully DevOps-enabled project using Docker, Kubernetes, Helm, and GitOps with ArgoCD
